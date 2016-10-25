@@ -18,5 +18,5 @@ class Bottles
   end
 end
 
-# bottles = Bottles.new
-# bottles.sing_the_song(99)
+bottles = Bottles.new
+bottles.sing_the_song(99)
